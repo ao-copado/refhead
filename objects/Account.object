@@ -10,4 +10,10 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <validationRules>
+        <fullName>Concur_VR</fullName>
+        <active>true</active>
+        <errorConditionFormula>TRUE</errorConditionFormula>
+        <errorMessage>TRUE</errorMessage>
+    </validationRules>
 </CustomObject>
