@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>true</sorted>
+    <standardValue>
+        <fullName>Ælberto</fullName>
+        <default>false</default>
+    </standardValue>
+    <standardValue>
+        <fullName>Åttachment</fullName>
+        <default>false</default>
+    </standardValue>
+    <standardValue>
+        <fullName>Copado</fullName>
+        <default>false</default>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+    </standardValue>
+    <standardValue>
+        <fullName>Partner Referral</fullName>
+        <default>false</default>
+    </standardValue>
+    <standardValue>
+        <fullName>Phone Inquiry</fullName>
+        <default>false</default>
+    </standardValue>
+    <standardValue>
+        <fullName>Purchased List</fullName>
+        <default>false</default>
+    </standardValue>
+    <standardValue>
+        <fullName>Web</fullName>
+        <default>false</default>
+    </standardValue>
+</StandardValueSet>
