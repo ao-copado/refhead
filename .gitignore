@@ -3,7 +3,6 @@ package.xml
 *NAMESPACE1__*
 *NAMESPACE2__*
 permissionsets/*
-flowDefinitions/*
 translations/*
 objectTranslations/*
 sites/*
