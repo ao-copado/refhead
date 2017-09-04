@@ -117,18 +117,6 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
-        <fullName>EngineeringReqNumber__c</fullName>
-        <externalId>false</externalId>
-        <label>Engineering Req Number</label>
-        <length>12</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <trackHistory>false</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>EntitlementId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
@@ -183,29 +171,6 @@
         <type>Lookup</type>
     </fields>
     <fields>
-        <fullName>PotentialLiability__c</fullName>
-        <externalId>false</externalId>
-        <label>Potential Liability</label>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <trackHistory>false</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>Picklist</type>
-        <valueSet>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>No</fullName>
-                    <default>false</default>
-                </value>
-                <value>
-                    <fullName>Yes</fullName>
-                    <default>false</default>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
-    </fields>
-    <fields>
         <fullName>Priority</fullName>
         <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>true</trackHistory>
@@ -218,57 +183,6 @@
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Lookup</type>
-    </fields>
-    <fields>
-        <fullName>Product__c</fullName>
-        <externalId>false</externalId>
-        <label>Product</label>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <trackHistory>false</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>Picklist</type>
-        <valueSet>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>GC1040</fullName>
-                    <default>false</default>
-                </value>
-                <value>
-                    <fullName>GC1060</fullName>
-                    <default>false</default>
-                </value>
-                <value>
-                    <fullName>GC3020</fullName>
-                    <default>false</default>
-                </value>
-                <value>
-                    <fullName>GC3040</fullName>
-                    <default>false</default>
-                </value>
-                <value>
-                    <fullName>GC3060</fullName>
-                    <default>false</default>
-                </value>
-                <value>
-                    <fullName>GC5020</fullName>
-                    <default>false</default>
-                </value>
-                <value>
-                    <fullName>GC5040</fullName>
-                    <default>false</default>
-                </value>
-                <value>
-                    <fullName>GC5060</fullName>
-                    <default>false</default>
-                </value>
-                <value>
-                    <fullName>GC1020</fullName>
-                    <default>false</default>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
     </fields>
     <fields>
         <fullName>Reason</fullName>
@@ -292,10 +206,12 @@
                 <value>
                     <fullName>No</fullName>
                     <default>false</default>
+                    <label>No</label>
                 </value>
                 <value>
                     <fullName>Yes</fullName>
                     <default>false</default>
+                    <label>Yes</label>
                 </value>
             </valueSetDefinition>
         </valueSet>

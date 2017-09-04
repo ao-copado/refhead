@@ -4,13 +4,16 @@
     <standardValue>
         <fullName>Phone</fullName>
         <default>false</default>
+        <label>Phone</label>
     </standardValue>
     <standardValue>
         <fullName>Email</fullName>
         <default>false</default>
+        <label>Email</label>
     </standardValue>
     <standardValue>
         <fullName>Web</fullName>
         <default>false</default>
+        <label>Web</label>
     </standardValue>
 </StandardValueSet>

@@ -73,10 +73,6 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>Product__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Required</behavior>
                 <field>Type</field>
             </layoutItems>
         </layoutColumns>
@@ -151,19 +147,10 @@
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>EngineeringReqNumber__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
                 <field>SLAViolation__c</field>
             </layoutItems>
         </layoutColumns>
-        <layoutColumns>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>PotentialLiability__c</field>
-            </layoutItems>
-        </layoutColumns>
+        <layoutColumns/>
         <style>TwoColumnsLeftToRight</style>
     </layoutSections>
     <layoutSections>

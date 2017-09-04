@@ -4,33 +4,41 @@
     <standardValue>
         <fullName>Ælberto</fullName>
         <default>false</default>
+        <label>Ælberto</label>
     </standardValue>
     <standardValue>
         <fullName>Åttachment</fullName>
         <default>false</default>
+        <label>Åttachment</label>
     </standardValue>
     <standardValue>
         <fullName>Copado</fullName>
         <default>false</default>
+        <label>Copado</label>
     </standardValue>
     <standardValue>
         <fullName>Other</fullName>
         <default>false</default>
+        <label>Other</label>
     </standardValue>
     <standardValue>
         <fullName>Partner Referral</fullName>
         <default>false</default>
+        <label>Partner Referral</label>
     </standardValue>
     <standardValue>
         <fullName>Phone Inquiry</fullName>
         <default>false</default>
+        <label>Phone Inquiry</label>
     </standardValue>
     <standardValue>
         <fullName>Purchased List</fullName>
         <default>false</default>
+        <label>Purchased List</label>
     </standardValue>
     <standardValue>
         <fullName>Web</fullName>
         <default>false</default>
+        <label>Web</label>
     </standardValue>
 </StandardValueSet>
