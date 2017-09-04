@@ -20,5 +20,6 @@ public class AccountTriggerHelper {
     public static void methodNotCoveredAtAll3() {
         System.Debug('This code is never reached.');
         System.Debug('And takes down the code coverage.');
+        //New comment
     }
 }
