@@ -134,6 +134,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>BP_CBM_Testing_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>BP CBM Testing Field</label>
+        <length>96</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Baxter_Field__c</fullName>
         <externalId>false</externalId>
         <label>Baxter Field</label>
