@@ -134,6 +134,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>BICE_Bank_FIeld__c</fullName>
+        <externalId>false</externalId>
+        <label>BICE Bank FIeld</label>
+        <length>250</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Baxter_Field__c</fullName>
         <externalId>false</externalId>
         <label>Baxter Field</label>
@@ -186,6 +196,16 @@
         <externalId>false</externalId>
         <label>Coca Cola Field</label>
         <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Compliance_Fail__c</fullName>
+        <externalId>false</externalId>
+        <label>Compliance Fail</label>
+        <length>200</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
@@ -409,6 +429,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>La_Caixa__c</fullName>
+        <externalId>false</externalId>
+        <label>La Caixa</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Metso_CCM_CBM_Demo__c</fullName>
         <externalId>false</externalId>
         <label>Metso CCM CBM Demo</label>
@@ -600,6 +630,16 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Renault_and_Nissan__c</fullName>
+        <externalId>false</externalId>
+        <label>Renault and Nissan</label>
+        <length>155</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>SLAExpirationDate__c</fullName>
         <externalId>false</externalId>
         <label>SLA Expiration Date</label>
@@ -702,6 +742,26 @@
         <externalId>false</externalId>
         <label>Sony Demo Field</label>
         <length>6</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Telstra_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Telstra Field</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Telstra__c</fullName>
+        <externalId>false</externalId>
+        <label>Telstra</label>
+        <length>100</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
