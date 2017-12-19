@@ -439,6 +439,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>LeasePlan_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>LeasePlan Field</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Metso_CCM_CBM_Demo__c</fullName>
         <externalId>false</externalId>
         <label>Metso CCM CBM Demo</label>
