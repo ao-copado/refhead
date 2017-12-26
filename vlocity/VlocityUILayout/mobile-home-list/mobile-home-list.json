@@ -1,7 +1,6 @@
 {
     "Cards": [
-        "Event Story",
-        "Task Story"
+        "Event Story"
     ],
     "dataSource": {
         "contextVariables": [
