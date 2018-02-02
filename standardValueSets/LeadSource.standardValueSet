@@ -1,44 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
-    <sorted>true</sorted>
+    <sorted>false</sorted>
     <standardValue>
-        <fullName>Ælberto</fullName>
+        <fullName>Advertisement</fullName>
         <default>false</default>
-        <label>Ælberto</label>
+        <label>Advertisement</label>
     </standardValue>
     <standardValue>
-        <fullName>Åttachment</fullName>
+        <fullName>Employee Referral</fullName>
         <default>false</default>
-        <label>Åttachment</label>
+        <label>Employee Referral</label>
     </standardValue>
     <standardValue>
-        <fullName>Copado</fullName>
+        <fullName>External Referral</fullName>
         <default>false</default>
-        <label>Copado</label>
+        <label>External Referral</label>
     </standardValue>
     <standardValue>
-        <fullName>Other</fullName>
+        <fullName>Partner</fullName>
         <default>false</default>
-        <label>Other</label>
+        <label>Partner</label>
     </standardValue>
     <standardValue>
-        <fullName>Partner Referral</fullName>
+        <fullName>Public Relations</fullName>
         <default>false</default>
-        <label>Partner Referral</label>
+        <label>Public Relations</label>
     </standardValue>
     <standardValue>
-        <fullName>Phone Inquiry</fullName>
+        <fullName>Seminar - Internal</fullName>
         <default>false</default>
-        <label>Phone Inquiry</label>
+        <label>Seminar - Internal</label>
     </standardValue>
     <standardValue>
-        <fullName>Purchased List</fullName>
+        <fullName>Seminar - Partner</fullName>
         <default>false</default>
-        <label>Purchased List</label>
+        <label>Seminar - Partner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Trade Show</fullName>
+        <default>false</default>
+        <label>Trade Show</label>
     </standardValue>
     <standardValue>
         <fullName>Web</fullName>
         <default>false</default>
         <label>Web</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Word of mouth</fullName>
+        <default>false</default>
+        <label>Word of mouth</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
     </standardValue>
 </StandardValueSet>

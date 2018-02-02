@@ -3,12 +3,12 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <formFactors>Large</formFactors>
     <tab>standard-Chatter</tab>
+    <tab>standard-File</tab>
     <tab>standard-Contact</tab>
     <tab>standard-Account</tab>
     <tab>standard-Idea</tab>
-    <tab>standard-IdeaTheme</tab>
-    <tab>standard-Answers</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
-    <tab>standard-Questions</tab>
+    <tab>vlocity_cmt__PricingVariable__c</tab>
+    <tab>User_Time_Record__c</tab>
 </CustomApplication>

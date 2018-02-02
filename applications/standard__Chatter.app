@@ -7,4 +7,6 @@
     <tab>standard-OtherUserProfile</tab>
     <tab>standard-CollaborationGroup</tab>
     <tab>standard-File</tab>
+    <tab>vlocity_cmt__PricingVariable__c</tab>
+    <tab>User_Time_Record__c</tab>
 </CustomApplication>

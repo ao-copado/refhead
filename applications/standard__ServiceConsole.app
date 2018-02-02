@@ -174,7 +174,13 @@
     <tab>standard-Opportunity</tab>
     <tab>standard-Lead</tab>
     <tab>standard-Knowledge</tab>
+    <tab>standard-LiveAgent</tab>
+    <tab>vlocity_cmt__PricingVariable__c</tab>
+    <tab>User_Time_Record__c</tab>
     <workspaceMappings>
+        <mapping>
+            <tab>User_Time_Record__c</tab>
+        </mapping>
         <mapping>
             <tab>standard-Account</tab>
         </mapping>
@@ -193,8 +199,14 @@
             <tab>standard-Lead</tab>
         </mapping>
         <mapping>
+            <tab>standard-LiveAgent</tab>
+        </mapping>
+        <mapping>
             <fieldName>AccountId</fieldName>
             <tab>standard-Opportunity</tab>
+        </mapping>
+        <mapping>
+            <tab>vlocity_cmt__PricingVariable__c</tab>
         </mapping>
     </workspaceMappings>
 </CustomApplication>

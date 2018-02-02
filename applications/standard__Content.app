@@ -6,5 +6,6 @@
     <tab>standard-Workspace</tab>
     <tab>standard-ContentSearch</tab>
     <tab>standard-ContentSubscriptions</tab>
-    <tab>standard-ContentFavorites</tab>
+    <tab>vlocity_cmt__PricingVariable__c</tab>
+    <tab>User_Time_Record__c</tab>
 </CustomApplication>

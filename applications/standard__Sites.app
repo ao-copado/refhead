@@ -4,4 +4,6 @@
     <formFactors>Large</formFactors>
     <tab>standard-Chatter</tab>
     <tab>standard-Sites</tab>
+    <tab>vlocity_cmt__PricingVariable__c</tab>
+    <tab>User_Time_Record__c</tab>
 </CustomApplication>
